@@ -1,4 +1,4 @@
-# YouTube-analytics---Social-Media-Analytic
+# YouTube-analytics---Social-Media-Analytics
 This repository contains one YouTube channel analysis who posts contents on the travelling domain.
 
 Steps followed:
